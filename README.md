@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @korpy14352
+# LNB
+just making games
